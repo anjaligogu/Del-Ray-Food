@@ -35,4 +35,3 @@
 ##### Why We Use map:
 
 - It uses the `.map()` function to iterate over each item.
-# Del-Ray
